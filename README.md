@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and generation algorithm
 - 🌱 I’m currently learning meh
 - 💞️ I’m looking to collaborate on nothing
-- 📫 You can reach me miutuv@gmail.com
+- 📫 You can reach me at miutuv@gmail.com
 
 <!---
 Miutuv/Miutuv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
